@@ -7,7 +7,7 @@ Supervisor: Eric McNamara &nbsp;·&nbsp; Grade: 2.1 Honours &nbsp;·&nbsp; Submi
 
 ## Overview
 
-A sensor-free, AI-driven irrigation advisory system tailored for Irish farms, built entirely on publicly available Met Éireann weather data — no IoT hardware required. The system reframes the Irish irrigation problem as a short-horizon "when not to irrigate" decision, where frequent rainfall and high intra-seasonal variability mean that skipping irrigation at the right time is often more valuable than fine-tuning large water applications.
+A sensor-free, AI-driven irrigation advisory system tailored for Irish farms, built entirely on publicly available Met Éireann weather data no IoT hardware required. The system reframes the Irish irrigation problem as a short-horizon "when not to irrigate" decision, where frequent rainfall and high intra-seasonal variability mean that skipping irrigation at the right time is often more valuable than fine-tuning large water applications.
 
 ---
 
