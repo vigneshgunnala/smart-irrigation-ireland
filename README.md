@@ -65,7 +65,7 @@ Rolling and lagged features capturing:
 | XGBoost | Gradient boosting; strong tabular performance on modest dataset sizes |
 | LSTM | Sequential neural network; captures temporal dependencies in time series |
 
-**Validation strategy:** Blocked, seasonally stratified time-series cross-validation across counties — prevents data leakage between training and test sets.
+**Validation strategy:** Blocked, seasonally stratified time-series cross-validation across counties prevents data leakage between training and test sets.
 
 **Evaluation metrics:** RMSE, MAE, R², and decision-centric skip precision/recall metrics.
 
@@ -85,7 +85,7 @@ Applied SHAP (SHapley Additive exPlanations) to interpret model predictions at t
 | Temperature trend | Average summer temperatures increased ~0.5–0.8°C across 2010–2024 |
 | Rainfall disparity | Galway ~1,400mm/year vs Dublin ~850mm/year annual average |
 | Extreme rainfall | Days >30mm increased from 5/year (2010–2014) to 9/year (2020–2024) |
-| Seasonal shift | Winter rainfall increasing; summer rainfall declining — mismatch with crop demand |
+| Seasonal shift | Winter rainfall increasing; summer rainfall declining mismatch with crop demand |
 | Spatial heterogeneity | SHAP importance rankings differ significantly across counties |
 
 ---
